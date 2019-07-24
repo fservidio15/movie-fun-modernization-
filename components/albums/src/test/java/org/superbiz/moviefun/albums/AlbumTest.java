@@ -1,7 +1,6 @@
-package moviefun.albums;
+package org.superbiz.moviefun.albums;
 
 import org.junit.Test;
-import org.superbiz.moviefun.albums.Album;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
